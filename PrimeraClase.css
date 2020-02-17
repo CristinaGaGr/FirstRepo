@@ -33,6 +33,9 @@ footer {
 }
 
 aside {
+    display: inline-block;
     background-color: beige;
+    width: 29%;
+    height: 180px;
 }
 
